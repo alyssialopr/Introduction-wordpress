@@ -1,5 +1,10 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
+
+# Vidéo d'explication
+https://youtu.be/x4S7eBa_KBI
+
+
 _s
 ===
 
