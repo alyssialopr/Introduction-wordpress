@@ -1,0 +1,39 @@
+.site-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .entry-title {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+header > h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+
+.caract{
+    justify-content: center;
+    align-items: center;
+}
+
+.caract > p {
+    font-size: 20px;
+    font-weight: bold;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
